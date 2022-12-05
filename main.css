@@ -1,0 +1,7 @@
+.grid{
+    display: grid;
+    grid-template-columns: 5;
+}
+
+.image{max-height: 5rem;
+max-width: 5rem;}
